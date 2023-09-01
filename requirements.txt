@@ -3,5 +3,5 @@ mwdiffs
 mwtypes
 mwcli
 mwxml
-deltas
+deltas @ git+https://github.com/theresnotime/deltas@master
 para
